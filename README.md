@@ -2,4 +2,4 @@
 
 Team Lynx.
 
-(JavaDOc)[http://charlenepizzoni.github.io/GrapheJava/]
+[JavaDoc](http://charlenepizzoni.github.io/GrapheJava/)
