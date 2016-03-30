@@ -1,3 +1,3 @@
 ## GrapheJava
 
-Team hippopotame.
+Team Lynx.
